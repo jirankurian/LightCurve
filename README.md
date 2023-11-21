@@ -1,1 +1,1 @@
-# lightCurve
+# LightCurve
